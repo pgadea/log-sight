@@ -1,4 +1,4 @@
-import { Customer } from './customer'; 
+import { Customer } from './customer';
 
 export interface Order {
     id: number;
